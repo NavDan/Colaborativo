@@ -1,8 +1,12 @@
-
+import java.io.*;
 public class Principal {
 
+	public static Serie[] rellenarSeries() {
+		
+	}
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Serie[] arrser = rellenarSeries();
 
 	}
 
