@@ -7,6 +7,8 @@ public class Principal {
 			
 		}
 		arrser[3]= new Serie();
+		
+		return arrser;
 	}
 	
 	public static void main(String[] args) {
