@@ -10,6 +10,10 @@ public class Serie {
 	private String genero;
 	private String creador;
 	
+	public Serie() {
+		
+	}
+	
 	public Serie(String titulo, String creador) {
 		super();
 		this.titulo = titulo;
